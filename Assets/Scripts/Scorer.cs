@@ -8,11 +8,11 @@ public class Scorer : MonoBehaviour
 
         if (other.gameObject.tag == "Player")
         {
-            HandleHit();
+            HandleHit(other);
         }
     }
 
-    void HandleHit()
+    void HandleHit(Collision other)
     {
         if (other.gameObject.tag == "Hit")
         {
