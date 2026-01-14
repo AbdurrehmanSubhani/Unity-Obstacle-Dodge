@@ -2,6 +2,11 @@
 
 This repository is my implementation of the "Object Dodge" tutorial project from the Udemy course: "Complete C# Unity 3D Game Development in Unity 6".
 
+
+## Current Progress Demo
+
+https://github.com/user-attachments/assets/2d6e22e4-0b28-4920-8680-de50cf953aa1
+
 ## Summary
 
 It's a simple Unity project where the player moves an object and must dodge falling/traveling obstacles. This repo is a learning/example project that reproduces the tutorial exercises and demonstrates basic Unity concepts:
