@@ -5,7 +5,7 @@ This repository is my implementation of the "Object Dodge" tutorial project from
 
 ## Current Progress Demo
 
-https://github.com/user-attachments/assets/2d6e22e4-0b28-4920-8680-de50cf953aa1
+https://github.com/user-attachments/assets/3132aa82-27dd-4b3e-8e6f-e3c05f716ad6
 
 ## Summary
 
